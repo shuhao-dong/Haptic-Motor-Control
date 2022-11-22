@@ -15,8 +15,6 @@ For pre-test and final test:  Test number and orientation assignment:
 Update: 24/10/2022
 1. Fix the baud rate being to low resulting in slower haptic motor motion. 
 
-Update: 22/11/2022
-1. Add IMU sensor reading function
-
 Wait to do:
 1. Build low pass filter for data analysis 
+2. Add BNO055 sensor reading to BLE 33 script
